@@ -166,8 +166,8 @@ h5 {
 }
 
 .picture .slider .slider-for img {
-  width: 850px !important;
-  height: 700px !important;
+  width: 850px;
+  height: 700px;
   margin: auto;
 }
 
@@ -180,8 +180,8 @@ h5 {
 }
 
 .picture .slider .slider-nav img {
-  width: 280px !important;
-  height: 240px !important;
+  width: 280px;
+  height: 240px;
   margin: auto;
 }
 
