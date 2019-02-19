@@ -307,15 +307,15 @@ h5 {
   }
 
   .picture .slider .slider-nav img {
-    height: 65px;
+    height: 60px;
   }
 
   .picture .slider .slider-nav img {
-    width: 65px;
+    width: 60px;
   }
 }
 
-@media (max-width: 350px) {
+@media (max-width: 370px) {
   .picture .slider .slider-nav img {
     height: 50px;
   }
